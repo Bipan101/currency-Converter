@@ -55,14 +55,15 @@ This is a responsive currency converter web application built with **React**, bu
 
 6. Include Tailwind in your CSS by adding this to index.css or global.css:
    ```
-   @tailwind base;
-   @tailwind components;
-   @tailwind utilities;
- if step 6) didn't work then try using this :
-   ```
-   @import 'tailwindcss/base';
-   @import 'tailwindcss/components';
-   @import 'tailwindcss/utilities';
+      @tailwind base;
+      @tailwind components;
+      @tailwind utilities;
+ if step 6) didn't work then try replacing by this :
+    
+      @import 'tailwindcss/base';
+      @import 'tailwindcss/components';
+      @import 'tailwindcss/utilities';
+
 
 7. Start the development server:
     ```bash
