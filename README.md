@@ -58,12 +58,20 @@ This is a responsive currency converter web application built with **React**, bu
    @tailwind base;
    @tailwind components;
    @tailwind utilities;
-
-if above didn't work then try using this :
+ if step 6) didn't work then try using this :
    ```
    @import 'tailwindcss/base';
    @import 'tailwindcss/components';
    @import 'tailwindcss/utilities';
 
+7. Start the development server:
+    ```bash
+       npm run dev
 
+
+# API Information:
+
+The project uses @fawazahmed0/currency-api to fetch the latest currency exchange rates.
+Endpoint: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/npr.json
+The data is used to convert NPR/ to multiple currencies in real-time.
 
