@@ -21,7 +21,7 @@ This is a responsive currency converter web application built with **React**, bu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Bipan101/currencyConverter.git
 
 2. Navigate to the project directory:
     ```bash
