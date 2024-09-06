@@ -3,7 +3,7 @@
 This is a responsive currency converter web application built with **React**, bundled using **Vite**, and styled with **Tailwind CSS**. <br>
 The application fetches real-time currency exchange rates and provides easy conversion between different currencies, including NPR (Nepalese Rupee).
 
-## Features
+## Features:
 
 - Real-time currency conversion using [@fawazahmed0/currency-api](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/npr.json)
 - Responsive design for desktop and mobile devices.
@@ -11,13 +11,13 @@ The application fetches real-time currency exchange rates and provides easy conv
 - Clean, modern UI with **Tailwind CSS** for styling.
 - Minimalistic and easy-to-use interface.
 
-## Tech Stack
+## Tech Stack:
 
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: Next-generation frontend tooling for fast build times.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 
-## Installation and Setup
+## Installation and Setup :)
 
 1. Clone the repository:
 
